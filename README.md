@@ -3,6 +3,15 @@ Given and address get long lat or given long lat get address
 
     ```  WPS/SAS/R: Given Latitude and Longitude get postal_code and other geography  ```
     ```    ```
+        Texas A@M                                                                          
+        http://geoservices.tamu.edu/Services/Geocode/BatchProcess/OverviewHowData.aspx     
+                                                                                   
+        UCLA Web Geocoder                                                                 
+        https://gis.ucla.edu/geocoder                                                      
+                                                                                   
+        github
+        https://tinyurl.com/yd9c7l94
+        https://github.com/rogerjdeangelis/utl_geocode_and_reverse_geocode_netherland_addresses_and_latitudes_longitudes
     ```  WORKING CODE  ```
     ```  ============  ```
     ```    ```
